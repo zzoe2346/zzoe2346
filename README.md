@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### In Progress
+- ✏️ Spring WebMVC(Servlet Stack), Spring WebFlux(Reactive Stack)로 같은 서비스 제공하는 서버 애플리케이션 만들고 AWS FreeTier EC2 같은 부족한 자원에서 동시성 문제 피하며 트래픽을 얼마나 감당 할 수 있을지에대한...
+
 <!--
 **zzoe2346/zzoe2346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoe2346)](https://solved.ac/zzoe2346/)
+
+ 
