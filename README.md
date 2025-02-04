@@ -1,7 +1,20 @@
-## Hi there 👋
+## 좋은 하루 되세요 👋
 
-### In Progress
-- ✏️ Spring WebMVC(Servlet Stack), Spring WebFlux(Reactive Stack)로 같은 서비스 제공하는 서버 애플리케이션 만들고 AWS FreeTier EC2 같은 부족한 자원에서 동시성 문제 피하며 트래픽을 얼마나 감당 할 수 있을지에대한...
+### About Me
+- 서버 자원을 귀하게 여기며, 이를 최대한 활용할 수 있도록 최적화된 애플리케이션 로직을 작성하려 노력하는 개발자입니다.
+- React, TypeScript, MUI를 활용하여 기초적인 프론트엔드 개발 역량을 갖춘 개발자입니다.
+- Chrome Web Store에 등록된 크롬 확장 프로그램을 개발한 경험이 있습니다.
+- 현재 My Coding Test 서비스를 개발하고 운영하며, 사용자에게 유용한 플랫폼을 제공하고 유지하는것을 목표로 하고있습니다.
+
+### Projects
+
+제가 참여한 프로젝트들 입니다.
+- [MyCodingTest_FE](https://github.com/zzoe2346/MyCodingTest_FE): A brief description of what this project is.
+- [MyCodingTest_Connector](https://github.com/zzoe2346/MyCodingTest_Connector): A brief description of what this project is.
+- [나만의 작은 시니또](https://github.com/kakao-tech-campus-2nd-step3/Team8_BE): A brief description of what this project is.
+- [TIL-Helper](https://github.com/zzoe2346/TIL-Helper): A brief description of what this project is.
+- [Bus-Reminder](https://github.com/zzoe2346/Bus-Reminder): A brief description of what this project is.
+
 
 <!--
 **zzoe2346/zzoe2346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
