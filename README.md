@@ -9,12 +9,12 @@
 ### Projects
 
 제가 참여한 프로젝트들 입니다.
-- [AlgoHive_BE](https://github.com/zzoe2346/MyCodingTest_FE): A brief description of what this project is.
-- [MyCodingTest_FE](https://github.com/zzoe2346/MyCodingTest_FE): A brief description of what this project is.
-- [MyCodingTest_Connector](https://github.com/zzoe2346/MyCodingTest_Connector): A brief description of what this project is.
-- [나만의 작은 시니또](https://github.com/kakao-tech-campus-2nd-step3/Team8_BE): A brief description of what this project is.
-- [TIL-Helper](https://github.com/zzoe2346/TIL-Helper): A brief description of what this project is.
-- [Bus-Reminder](https://github.com/zzoe2346/Bus-Reminder): A brief description of what this project is.
+- [AlgoHive_BE](https://github.com/zzoe2346/MyCodingTest_FE): 현재 참여중인 프로젝트입니다. 팀 프로젝트로, 게시물 기능 구현을 맡고있습니다.
+- [MyCodingTest_FE](https://github.com/zzoe2346/MyCodingTest_FE): 백준에서 푼 문제를 복습, 아카이빙을 쉽게 하도록 지원하는 웹 서비스입니다. 실제 운영중입니다.
+- [MyCodingTest_Connector](https://github.com/zzoe2346/MyCodingTest_Connector): 백준 사이트에서 제출 소스 코드, 채점 결과를 읽어서 My Coding Test 서버로 전송해주는 Chrome Extension 입니다. 현재 Chrome Web Store에 정식 등록된 상태입니다.
+- [나만의 작은 시니또](https://github.com/kakao-tech-campus-2nd-step3/Team8_BE): 카카오 테크 캠퍼스에서 참여한 팀 프로젝트입니다. 시니어와 도우미를 연결해주는 플랫폼 프로젝트인데 저는 유저가 저희 서비스에 전화를 걸면 서비스로직이 시행되는 기능을 맡았습니다. 
+- [TIL-Helper](https://github.com/zzoe2346/TIL-Helper): TIL을 깃허브 레포지토리로 하려고 만든 자바 프로그램입니다. 로컬에서 Markdown파일로 TIL을 작성하고 프로그램을 실행시키면 자동으로 TIL 레포지토리의 README.md 에 삽입되고 push 되도록 설계하였습니다.
+- [Bus-Reminder](https://github.com/zzoe2346/Bus-Reminder): 공공API 활용해 특정 정류장의 도착 정보를 활용해 유저가 원하는 지점에서 Push Notification 을 해주는 프로젝트 입니다. 첫 웹 프로젝트입니다.
 
 
 <!--
