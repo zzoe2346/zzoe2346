@@ -2,6 +2,10 @@
 ### 오픈소스기여
 - Spring Framework
     - [Improve handling of mainThreadPrefix and remove redundant null check #34746](https://github.com/spring-projects/spring-framework/pull/34746)
+ 
+- Spring RestDocs
+    - [Add Spring REST Docs icon for IntelliJ IDEA #961
+](https://github.com/spring-projects/spring-restdocs/pull/961)
 
 <!--
 
