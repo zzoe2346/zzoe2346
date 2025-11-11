@@ -7,6 +7,8 @@
     - [Add Spring REST Docs icon for IntelliJ IDEA #961
 ](https://github.com/spring-projects/spring-restdocs/pull/961)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoe2346)](https://solved.ac/zzoe2346/)
+
 <!--
 
 ### 자동화 도구 개발을 통해 반복 업무를 최소화합니다.
