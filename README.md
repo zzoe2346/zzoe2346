@@ -7,9 +7,9 @@
     - [Add Spring REST Docs icon for IntelliJ IDEA #961
 ](https://github.com/spring-projects/spring-restdocs/pull/961)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoe2346)](https://solved.ac/zzoe2346/)
 
 <!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoe2346)](https://solved.ac/zzoe2346/)
 
 ### 자동화 도구 개발을 통해 반복 업무를 최소화합니다.
 - [MY CODING TEST](https://mycodingtest.com/)
@@ -31,16 +31,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoe2346)](https://solved.ac/zzoe2346/)
 
 -->
 
 <!-- 
+
 # Hi there, I'm Zoe! 👋
 
 Welcome to my GitHub profile!
 
 ## About Me
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoe2346)](https://solved.ac/zzoe2346/)
 
 - 🔭 I’m currently working on various exciting projects in the field of web development and data science.
 - 🌱 I’m continuously learning and improving my skills, currently focusing on React.js, Node.js, and Python.
