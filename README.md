@@ -1,11 +1,13 @@
-## 좋은 하루 되세요 👋
-### 오픈소스기여
+### Open Source Contribution
 - Spring Framework
     - [Improve handling of mainThreadPrefix and remove redundant null check #34746](https://github.com/spring-projects/spring-framework/pull/34746)
  
 - Spring REST Docs
+    - [Remove duplicate null check for identifier in RestDocumentationGenerator #1019](https://github.com/spring-projects/spring-restdocs/pull/1019)     
     - [Add Spring REST Docs icon for IntelliJ IDEA #961
 ](https://github.com/spring-projects/spring-restdocs/pull/961)
+- Docker docs
+    - [Remove deprecated --kernel-memory option, description and details from resource_constraints.md #22373](https://github.com/docker/docs/pull/22373)
 
 
 <!--
