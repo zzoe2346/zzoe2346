@@ -7,19 +7,13 @@
 정체되지 않고 매일 성장하는 개발자가 되기 위해, 모든 경험과 배움을 [개인 블로그](https://jeongseonghun.com)에 기록합니다.
 단순한 지식 습득에 그치지 않고, 얻은 인사이트를 회고하고 공유하며 더 단단한 개발자로 나아가고자 합니다.
 
-#### Service
 
-[My Coding Test](https://mycodingtest.com/)를 직접 개발하고 배포하며 마주하는 다양한 기술적 문제들을 주도적으로 해결하고 있습니다. 
-깊은 애정을 담아 만든 저만의 제품인 만큼, 더 견고한 설계와 개선된 성능을 위해 끊임없이 고민하며 완성도를 높여가고 있습니다.
-
-- [BackEnd Repo](https://github.com/zzoe2346/MyCodingTest_BACKEND)
-- [FrontEnd Repo](https://github.com/zzoe2346/MyCodingTest_FE)
 
 ### 🛠 Tech Stack
-- **Backend:** Java, Spring Framework, JPA
+- **Backend:** Java, Spring Framework
 - **Frontend:** TypeScript, React, Next.js
-- **Database:** MySQL
-- **AI Tool**: Antigravity, Gemni CLI
+- **Database:** MySQL, Redis, Elasticsearch
+- **AI Tool**: Claude Code, Antigravity, Gemini CLI
 
 
 ### 📬 Contact
@@ -29,7 +23,13 @@
 
 
 <!--
+#### Service
 
+[My Coding Test](https://mycodingtest.com/)를 직접 개발하고 배포하며 마주하는 다양한 기술적 문제들을 주도적으로 해결하고 있습니다. 
+깊은 애정을 담아 만든 저만의 제품인 만큼, 더 견고한 설계와 개선된 성능을 위해 끊임없이 고민하며 완성도를 높여가고 있습니다.
+
+- [BackEnd Repo](https://github.com/zzoe2346/MyCodingTest_BACKEND)
+- [FrontEnd Repo](https://github.com/zzoe2346/MyCodingTest_FE)
 ### Open Source Contribution
 - Spring Framework
     - [Improve handling of mainThreadPrefix and rem
