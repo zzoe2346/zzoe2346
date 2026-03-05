@@ -8,9 +8,8 @@
 
 ### 🛠 Tech Stack
 - **Backend:** Java, Spring Framework
-- **Frontend:** TypeScript, React, Next.js
 - **Database:** MySQL, Redis, Elasticsearch
-- **AI Tool**: Claude Code, Antigravity, Gemini CLI
+- **AI Tool:** Claude Code, Antigravity, Gemini CLI
 
 
 ### 📬 Contact
