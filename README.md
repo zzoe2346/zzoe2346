@@ -19,3 +19,20 @@
 
 - 학습 계획을 직접 조정하고, 설명과 개념도, 삽화를 함께 보며 공부합니다.
 - 읽던 위치와 메모를 저장하고, 필요한 교재는 PDF로 내보냅니다.
+
+---
+
+<p align="center">
+  <a href="https://github.com/zzoe2346/MyCodingTest_BACKEND">
+    <img src="https://github.com/user-attachments/assets/2cfa5d66-5018-49d2-bcc5-6c7ae81a0a6f" width="180" alt="My Coding Test 로고">
+  </a>
+</p>
+
+<h3 align="center"><a href="https://github.com/zzoe2346/MyCodingTest_BACKEND">My Coding Test</a></h3>
+
+<p align="center">백준 풀이 기록을 모아 복습을 돕는 서비스</p>
+
+- 브라우저 확장 프로그램으로 풀이 코드와 채점 결과를 수집합니다.
+- 웹에서 풀이 기록을 확인하고, 복습할 문제와 오답노트를 관리합니다.
+
+[Backend](https://github.com/zzoe2346/MyCodingTest_BACKEND) / [Frontend](https://github.com/zzoe2346/MyCodingTest_FE) / [Extension](https://github.com/zzoe2346/MyCodingTest_Connector)
