@@ -8,6 +8,21 @@
 ## Projects
 
 <p align="center">
+  <a href="https://github.com/zzoe2346/kkokkomu">
+    <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="96" alt="꼬꼬무 앱 아이콘">
+  </a>
+</p>
+
+<h3 align="center"><a href="https://github.com/zzoe2346/kkokkomu">꼬꼬무 — Kkokkomu</a></h3>
+
+<p align="center">CS 개념과 프로젝트 경험을 내 말로 설명하고, 꼬리 질문으로 연습하는 macOS 학습 앱</p>
+
+- 내 답변에 대한 피드백을 확인하고, 이어지는 꼬리 질문으로 설명을 구체화합니다.
+- 답변 이력을 남기고, 예정된 질문에 다시 답하며 복습합니다.
+
+---
+
+<p align="center">
   <a href="https://github.com/zzoe2346/baeuja">
     <img src="https://raw.githubusercontent.com/zzoe2346/baeuja/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="96" alt="배우자 앱 아이콘">
   </a>
