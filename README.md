@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/zzoe2346/kkokkomu">
-    <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="96" alt="꼬꼬무 앱 아이콘">
+    <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="96" height="96" alt="화이트 배경의 꼬꼬무 앱 아이콘">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/zzoe2346/baeuja">
-    <img src="https://raw.githubusercontent.com/zzoe2346/baeuja/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="96" alt="배우자 앱 아이콘">
+    <img src="https://raw.githubusercontent.com/zzoe2346/baeuja/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="96" height="96" alt="배우자 앱 아이콘">
   </a>
 </p>
 
