@@ -56,5 +56,17 @@
         <a href="https://github.com/zzoe2346/MyCodingTest_Connector">Extension</a>
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="middle" width="160">
+        <a href="https://github.com/zzoe2346/mindmap">
+          <img src="https://raw.githubusercontent.com/zzoe2346/mindmap/main/docs/assets/app-icon.png" width="80" height="80" alt="mindmap 앱 아이콘"><br>
+          <strong>mindmap</strong>
+        </a>
+      </td>
+      <td valign="middle">
+        생각을 가지로 펼치고 서로 연결하는 로컬 macOS 마인드맵 앱<br><br>
+        토픽 드래그와 글쓰기, 관계선, 문서 미리보기와 즐겨찾기
+      </td>
+    </tr>
   </tbody>
 </table>
