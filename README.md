@@ -18,7 +18,7 @@
     <tr>
       <td align="center" valign="middle" width="160">
         <a href="https://github.com/zzoe2346/mindmap">
-          <img src="https://raw.githubusercontent.com/zzoe2346/mindmap/main/docs/assets/app-icon.png" width="80" height="80" alt="mindmap 앱 아이콘"><br>
+          <img src="https://raw.githubusercontent.com/zzoe2346/mindmap/main/Artwork/AppIcon/Preview/AppIcon-web.png" width="80" height="80" alt="mindmap 앱 아이콘"><br>
           <strong>mindmap</strong>
         </a>
       </td>
