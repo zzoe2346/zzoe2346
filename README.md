@@ -7,47 +7,54 @@
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/zzoe2346/kkokkomu">
-    <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-white.png" width="96" height="96" alt="화이트 배경의 꼬꼬무 앱 아이콘">
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/zzoe2346/kkokkomu">꼬꼬무 — Kkokkomu</a></h3>
-
-<p align="center">CS 개념과 프로젝트 경험을 내 말로 설명하고, 꼬리 질문으로 연습하는 macOS 학습 앱</p>
-
-- 내 답변에 대한 피드백을 확인하고, 이어지는 꼬리 질문으로 설명을 구체화합니다.
-- 답변 이력을 남기고, 예정된 질문에 다시 답하며 복습합니다.
-
----
-
-<p align="center">
-  <a href="https://github.com/zzoe2346/baeuja">
-    <img src="https://raw.githubusercontent.com/zzoe2346/baeuja/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="96" height="96" alt="배우자 앱 아이콘">
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/zzoe2346/baeuja">배우자 — Let’s Learn</a></h3>
-
-<p align="center">배우고 싶은 주제로 교재와 시각자료를 만들고, 퀴즈로 복습하는 macOS 학습 앱</p>
-
-- 학습 계획을 직접 조정하고, 설명과 개념도, 삽화를 함께 보며 공부합니다.
-- 읽던 위치와 메모를 저장하고, 필요한 교재는 PDF로 내보냅니다.
-
----
-
-<p align="center">
-  <a href="https://github.com/zzoe2346/MyCodingTest_BACKEND">
-    <img src="https://github.com/user-attachments/assets/2cfa5d66-5018-49d2-bcc5-6c7ae81a0a6f" width="180" alt="My Coding Test 로고">
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/zzoe2346/MyCodingTest_BACKEND">My Coding Test</a></h3>
-
-<p align="center">백준 풀이 기록을 모아 복습을 돕는 서비스</p>
-
-- 브라우저 확장 프로그램으로 풀이 코드와 채점 결과를 수집합니다.
-- 웹에서 풀이 기록을 확인하고, 복습할 문제와 오답노트를 관리합니다.
-
-[Backend](https://github.com/zzoe2346/MyCodingTest_BACKEND) / [Frontend](https://github.com/zzoe2346/MyCodingTest_FE) / [Extension](https://github.com/zzoe2346/MyCodingTest_Connector)
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="160">프로젝트</th>
+      <th align="left">소개</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle" width="160">
+        <a href="https://github.com/zzoe2346/kkokkomu">
+          <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-white.png" width="80" height="80" alt="화이트 배경의 꼬꼬무 앱 아이콘"><br>
+          <strong>꼬꼬무</strong>
+        </a><br>
+        <sub>Kkokkomu</sub>
+      </td>
+      <td valign="middle">
+        CS 개념과 프로젝트 경험을 내 말로 설명하는 macOS 학습 앱<br><br>
+        답변 피드백, 꼬리 질문, 답변 이력과 복습
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="160">
+        <a href="https://github.com/zzoe2346/baeuja">
+          <img src="https://raw.githubusercontent.com/zzoe2346/baeuja/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="80" height="80" alt="배우자 앱 아이콘"><br>
+          <strong>배우자</strong>
+        </a><br>
+        <sub>Let’s Learn</sub>
+      </td>
+      <td valign="middle">
+        배우고 싶은 주제로 교재를 만드는 macOS 학습 앱<br><br>
+        학습 계획, 시각자료, 퀴즈와 PDF 내보내기
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="160">
+        <a href="https://github.com/zzoe2346/MyCodingTest_BACKEND">
+          <img src="https://github.com/user-attachments/assets/2cfa5d66-5018-49d2-bcc5-6c7ae81a0a6f" width="120" alt="My Coding Test 로고"><br>
+          <strong>My Coding Test</strong>
+        </a>
+      </td>
+      <td valign="middle">
+        백준 풀이 기록을 모아 복습을 돕는 서비스<br><br>
+        풀이 수집, 오답노트와 복습 관리<br>
+        <a href="https://github.com/zzoe2346/MyCodingTest_BACKEND">Backend</a> /
+        <a href="https://github.com/zzoe2346/MyCodingTest_FE">Frontend</a> /
+        <a href="https://github.com/zzoe2346/MyCodingTest_Connector">Extension</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
