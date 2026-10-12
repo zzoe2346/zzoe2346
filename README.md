@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/zzoe2346/kkokkomu">
-    <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-default.png?v=white-20261012" width="96" height="96" alt="화이트 배경의 꼬꼬무 앱 아이콘">
+    <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-white.png" width="96" height="96" alt="화이트 배경의 꼬꼬무 앱 아이콘">
   </a>
 </p>
 
