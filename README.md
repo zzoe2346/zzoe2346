@@ -10,7 +10,6 @@
 ## 요즘 하는 것
 
 - **책먹자** — 책에 형광펜 친 페이지를 찍으면 문장을 정리해 주는 앱의 서버를 만들 준비를 하고 있어요. 지금은 기획과 설계 단계예요.
-- **DB로 만드는 작업 큐** — `FOR UPDATE SKIP LOCKED`로 작업 큐를 직접 만들며 중복 실행과 장애 복구를 공부하고 있어요.
 
 <br>
 
@@ -54,7 +53,6 @@
 | <img src="https://raw.githubusercontent.com/zzoe2346/kkokkomu/main/Artwork/AppIcon/Preview/AppIcon-white.png" width="32" alt="꼬꼬무 아이콘"> | [꼬꼬무](https://github.com/zzoe2346/kkokkomu) | 개념을 내 말로 설명하면 꼬리 질문이 이어지는 macOS 앱 |
 | <img src="https://raw.githubusercontent.com/zzoe2346/baeuja/main/Artwork/AppIcon/Preview/AppIcon-default.png" width="32" alt="배우자 아이콘"> | [배우자](https://github.com/zzoe2346/baeuja) | 궁금한 주제로 교재와 퀴즈를 만드는 macOS 앱 |
 | <img src="https://raw.githubusercontent.com/zzoe2346/mindmap/main/Artwork/AppIcon/Preview/AppIcon-web.png" width="32" alt="mindmap 아이콘"> | [mindmap](https://github.com/zzoe2346/mindmap) | 로그인 없이 쓰는 마인드맵 앱 |
-| | [study-tui](https://github.com/zzoe2346/study-tui) | 터미널에서 공부하는 교재 앱 |
 
 <br>
 
